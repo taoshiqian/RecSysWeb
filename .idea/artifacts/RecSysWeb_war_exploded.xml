@@ -1,0 +1,34 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="RecSysWeb:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/RecSysWeb_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="RecSysWeb/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="RecSysWeb" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/jar/activation.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/jar/asm-attrs.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/jar/asm.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/jar/axis-ant.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/jar/axis.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/jar/commons-discovery-0.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/jar/commons-logging-1.0.4.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/jar/dom4j-1.6.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/jar/Jama-1.0.3.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/jar/javatuples-1.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/jar/jaxrpc.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/jar/log4j-1.2.8.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/jar/mail.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/jar/org.json.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/jar/saaj.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/jar/wsdl4j-1.5.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/jar/xerces-2.6.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/jar/xml-apis.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/jar/XmlSchema-1.0.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

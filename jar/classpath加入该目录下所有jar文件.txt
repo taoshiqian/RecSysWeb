@@ -1,0 +1,4 @@
+SetLocal EnableDelayedExpansion   
+FOR %%i IN ("E:/JavaWorkSpace/RecSysWeb/jar/*.jar") DO SET CLASSPATH=!CLASSPATH!;%%~fsi   
+echo %CLASSPATH%   
+EndLocal   

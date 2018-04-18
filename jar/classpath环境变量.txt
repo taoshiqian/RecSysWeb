@@ -1,0 +1,8 @@
+E:\JavaWorkSpace\RecSysWeb\jar\javatuples-1.2.jar;
+E:\JavaWorkSpace\RecSysWeb\jar\Jama-1.0.3.jar.jar;
+E:\JavaWorkSpace\RecSysWeb\jar\javatuples.jar;
+E:\JavaWorkSpace\RecSysWeb\jar\javatuples.jar;
+
+
+
+%JAR_HOME%\asm.jar;%JAR_HOME%\axis-ant.jar;%JAR_HOME%\axis.jar;%JAR_HOME%\commons-discovery-0.2.jar;%JAR_HOME%\commons-logging-1.0.4.jar;%JAR_HOME%\cors-filter-1.7.jar;%JAR_HOME%\dom4j-1.6.1.jar;%JAR_HOME%\Jama-1.0.3.jar;%JAR_HOME%\java-property-utils-1.9.jar;%JAR_HOME%\javatuples-1.2.jar;%JAR_HOME%\jaxrpc.jar;%JAR_HOME%\log4j-1.2.8.jar;%JAR_HOME%\mail.jar;%JAR_HOME%\org.json.jar;%JAR_HOME%\saaj.jar;%JAR_HOME%\servlet-api.jar;%JAR_HOME%\weka.jar;%JAR_HOME%\wsdl4j-1.5.1.jar;%JAR_HOME%\xerces-2.6.2.jar;%JAR_HOME%\xml-apis.jar;%JAR_HOME%\XmlSchema-1.0.jar;
